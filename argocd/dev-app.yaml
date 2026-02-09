@@ -8,7 +8,7 @@ spec:
   project: default
 
   source:
-    repoURL: git@github.com:kube-kr-aayush/gitops-app-template.git
+    repoURL: https://github.com/kube-kr-aayush/gitops-app-template.git
     targetRevision: main
     path: overlays/dev
 
@@ -20,4 +20,3 @@ spec:
     automated:
       prune: true
       selfHeal: true
-
