@@ -134,11 +134,7 @@ It focuses on **system design and delivery automation**, not application code.
 
 ---
 
-## 🎤 Interview Summary (One-Liner)
 
-> Built a reusable GitOps deployment template using Kubernetes, Kustomize, and Argo CD where both application deployments and Argo CD apps are fully managed through Git.
-
----
 
 ## 📌 Future Enhancements
 
